@@ -1,0 +1,5 @@
+client.clientcommunicator
+server.dbaccess
+shared.communication.params
+shared.communication.results
+shared.model
